@@ -1,0 +1,5 @@
+Ruta /: muestra el mensaje "Servidor activo" cuando se accede a la página principal.
+
+Ruta /saludo: devuelve el mensaje "Hola comunidad" para confirmar que la ruta está funcionando.
+
+Ruta /mensaje/juan: responde con "Hola juan" y muestra cómo se puede enviar un valor dinámico en la URL.
