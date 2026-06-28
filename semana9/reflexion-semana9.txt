@@ -1,0 +1,9 @@
+Las plataformas tecnológicas comunitarias deben ser estables y seguras para garantizar la continuidad del servicio.
+La estabilidad evita interrupciones que perjudican la comunicación y el trabajo colectivo de la comunidad.
+La seguridad protege los datos personales y la integridad de las interacciones en línea.
+Los registros y el monitoreo permiten detectar problemas a tiempo y aplicar soluciones rápidas.
+Un servidor bien administrado mejora la confianza de los usuarios en la plataforma.
+La disponibilidad continua facilita el acceso a recursos y servicios esenciales para la comunidad.
+Implementar buenas prácticas reduce el riesgo de pérdida de información o ataques.
+Capacitar a los responsables en administración y seguridad fortalece la sostenibilidad del proyecto.
+En resumen, estabilidad y seguridad son pilares para que una plataforma comunitaria cumpla su propósito.

@@ -1,0 +1,14 @@
+Sistema operativo:
+Gestiona recursos del hardware, procesos y servicios. Proporciona el entorno donde se instala Node.js y donde corre la aplicación.
+
+Node.js:
+Entorno de ejecución para JavaScript en el servidor. Permite ejecutar `server.js`, gestionar paquetes y manejar peticiones asíncronas.
+
+Aplicación `server.js`:
+Código que define rutas y lógica de la API. Escucha solicitudes en un puerto y responde con datos o páginas.
+
+Puerto:
+Es un número que identifica un canal de comunicación en la máquina. Cuando el servidor "escucha" en el puerto 3000, recibe conexiones en ese canal.
+
+Logs:
+Registros que almacenan eventos, errores y actividad del servidor. Ayudan a monitorear y depurar problemas y a mantener la estabilidad.
