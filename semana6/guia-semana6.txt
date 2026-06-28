@@ -1,0 +1,40 @@
+# Semana 6
+
+## Guía de ejercicios y aplicación práctica
+Node.js · Express · JSON · req.body · Peticiones POST
+
+### Objetivo de la semana
+Comprender cómo recibir y procesar datos enviados por el usuario, aprender a trabajar con JSON, entender el uso de req.body en Express y construir un pequeño servicio que registre información enviada desde un cliente.
+
+### Entrega final
+Al finalizar la actividad debes publicar la carpeta semana6 en tu repositorio de GitHub y compartir el enlace del repositorio en Moodle.
+
+### Instrucciones generales
+1. Responde las preguntas de selección múltiple.
+2. Realiza los ejercicios prácticos de Node.js y Express.
+3. Guarda las respuestas en los archivos indicados.
+4. Publica la carpeta semana6 en tu repositorio.
+5. Comparte el enlace del repositorio en Moodle.
+
+### Actividad práctica
+- Crea el archivo server.js y configura Express para recibir datos en formato JSON.
+- Implementa la ruta /registro para recibir un nombre y un mensaje.
+- Implementa la ruta /incidencia para recibir un tipo y una descripción.
+- Prueba el servidor en http://localhost:3000/registro y http://localhost:3000/incidencia.
+- Guarda tus respuestas en preguntas-semana6.txt, prueba-api.txt, ejemplo-incidencia.txt y reflexion-semana6.txt.
+
+### Comandos básicos
+```bash
+cd semana6
+npm init -y
+npm install express
+node server.js
+```
+
+### Verificación final
+Tu repositorio debe incluir la carpeta semana6 con los archivos:
+- preguntas-semana6.txt
+- server.js
+- prueba-api.txt
+- ejemplo-incidencia.txt
+- reflexion-semana6.txt

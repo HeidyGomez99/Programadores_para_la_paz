@@ -1,0 +1,3 @@
+Al enviar un POST a /reportes con un JSON válido, el servidor agrega el nuevo reporte al array en memoria y devuelve un mensaje de confirmación junto con el reporte registrado.
+Cuando luego se consulta GET /reportes, el servidor devuelve un array con todos los reportes que se han registrado hasta ese momento.
+Esto permite ver los reportes almacenados en memoria mientras el servidor sigue en ejecución.

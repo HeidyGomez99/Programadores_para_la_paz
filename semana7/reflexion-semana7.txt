@@ -1,0 +1,8 @@
+Es importante que las comunidades puedan registrar y consultar reportes porque así se facilita la atención de problemas reales.
+Un sistema de reportes permite organizar la información y dar seguimiento a las incidencias.
+La consulta de reportes ayuda a identificar patrones y tomar decisiones más rápidas.
+También fortalece la comunicación entre los ciudadanos y las autoridades responsables.
+Los reportes estructurados en una plataforma tecnológica reducen errores y mejoran la transparencia.
+Además, los datos pueden almacenarse en listas y consultarse fácilmente con GET.
+Esto contribuye a que la comunidad se sienta escuchada y respaldada.
+Una plataforma así hace que las soluciones sean más claras y efectivas para todos.
