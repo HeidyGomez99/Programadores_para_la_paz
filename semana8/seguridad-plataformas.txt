@@ -1,0 +1,5 @@
+- No exponer datos personales.
+- Proteger credenciales y usar autenticación segura.
+- Usar conexiones seguras (HTTPS/TLS).
+- Registrar accesos y auditorías.
+- Limitar y revisar permisos de los usuarios.

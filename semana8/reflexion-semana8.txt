@@ -1,0 +1,8 @@
+La seguridad digital es esencial para proteger plataformas comunitarias porque preserva la confianza de sus participantes.
+Sin medidas básicas como control de acceso y protección de credenciales, los datos personales pueden filtrarse o ser mal utilizados.
+Además, las plataformas abiertas suelen depender de la colaboración; una vulneración afecta la participación y la gobernanza.
+Implementar conexiones seguras, auditorías y actualizaciones reduce riesgos técnicos y demuestra responsabilidad.
+La seguridad también tiene un componente ético: proteger la privacidad y la integridad de la información es cuidar a la comunidad.
+Formar a usuarios y administradores en buenas prácticas complementa las medidas técnicas.
+Una plataforma segura fomenta la participación y la sostenibilidad del proyecto comunitario.
+Por ello, integrar seguridad desde el diseño y mantener prácticas periódicas es una prioridad.

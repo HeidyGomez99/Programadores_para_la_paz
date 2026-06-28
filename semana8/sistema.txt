@@ -1,0 +1,12 @@
+Comandos ejecutados:
+
+`uname -a`:
+Muestra información del núcleo (kernel), nombre del host, versión del kernel, fecha de compilación y la arquitectura del sistema. Es útil para identificar la versión del sistema operativo y la arquitectura al administrar servidores.
+
+`whoami`:
+Muestra el nombre del usuario actual conectado en la sesión de la terminal. Es útil para confirmar con qué usuario se están ejecutando comandos y para verificar permisos cuando se administra un servidor.
+
+Por qué es útil conocer esta información:
+- Ayuda a diagnosticar problemas de compatibilidad y dependencias.
+- Permite verificar que se actúa con el usuario correcto y con los permisos adecuados.
+- Facilita la documentación y el soporte al describir el entorno del servidor.
