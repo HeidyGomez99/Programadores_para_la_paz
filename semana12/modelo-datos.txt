@@ -1,0 +1,17 @@
+Modelo de datos simple para la plataforma:
+
+Entidad: Causa
+- id: identificador único de la causa.
+- titulo: nombre de la petición o reclamo.
+- descripcion: explicación breve de la situación.
+- fecha: fecha en que se crea la causa.
+
+Entidad: Apoyo
+- id: identificador único del apoyo.
+- causa_id: relación con la causa a la que pertenece.
+- nombre: nombre de la persona que apoya.
+- fecha: fecha en que se registra el apoyo.
+
+Propósito:
+- La entidad Causa almacena la información principal de la petición.
+- La entidad Apoyo registra las personas que respaldan la causa.

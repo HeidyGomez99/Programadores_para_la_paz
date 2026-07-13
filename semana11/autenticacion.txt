@@ -1,0 +1,5 @@
+El login permite identificar a un usuario antes de darle acceso a ciertas funciones de la plataforma.
+Al iniciar sesión, el sistema comprueba si la persona es quien dice ser y le otorga permisos según su rol.
+Algunas rutas deben estar protegidas porque pueden contener información privada, registros internos o acciones que no deberían estar disponibles para cualquier persona.
+Si no se protege la ruta de creación de causas o el registro de apoyos, se pueden generar cambios no autorizados.
+No se deben exponer públicamente contraseñas, documentos de identidad, teléfonos, direcciones, tokens, claves de API ni datos sensibles de la comunidad.
